@@ -1,0 +1,21 @@
+AIRR Framework Evaluation Results
+---------------------------------
+Dataset rows: 286467
+Training rows: 229173
+Testing rows: 57294
+Selected risk threshold: 26
+
+Test Set Metrics
+Accuracy: 0.4829
+Precision: 0.4232
+Recall: 1.0000
+F1 Score: 0.5947
+
+Confusion Matrix
+True Positives: 21734
+True Negatives: 5935
+False Positives: 29625
+False Negatives: 0
+
+Interpretation
+The Label column was not used to calculate the risk score. It was only used as ground truth for evaluation. The risk score was generated using asset criticality, threat impact potential, exposure/blast radius, and threat intelligence enrichment.

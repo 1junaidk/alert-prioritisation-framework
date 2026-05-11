@@ -1,0 +1,111 @@
+###########----------Sample of first 100 prioritised alerts, could not include full file due to size limitations---#######
+
+
+
+
+
+
+Timestamp	Source_IP	Destination_IP	Label	Asset_Criticality	Threat_Impact_Potential	Exposure_Blast_Radius	TI_Score	Risk_Score	Recommendation	Ground_Truth_Attack
+07/07/2017 02:53	192.168.10.16	173.194.131.76	BENIGN	4	5	5	0	33	High Priority - Containment / Escalation	0
+07/07/2017 01:35	192.168.10.5	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 01:13	192.168.10.15	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 02:00	192.168.10.14	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 01:15	192.168.10.5	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 01:45	192.168.10.14	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 02:00	192.168.10.5	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 01:00	192.168.10.14	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 01:15	192.168.10.14	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 01:46	192.168.10.9	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 02:53	192.168.10.15	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 01:17	192.168.10.8	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 01:01	192.168.10.9	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 01:38	192.168.10.15	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 02:01	192.168.10.9	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 01:16	192.168.10.9	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 01:45	192.168.10.5	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 01:37	192.168.10.5	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 03:23	192.168.10.15	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 01:06	192.168.10.15	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 01:47	192.168.10.8	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 02:08	192.168.10.15	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 01:11	192.168.10.15	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 01:30	192.168.10.14	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 01:47	192.168.10.8	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 01:39	192.168.10.5	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 01:32	192.168.10.8	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 01:30	192.168.10.5	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 02:02	192.168.10.8	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 01:33	192.168.10.5	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 01:02	192.168.10.8	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 01:23	192.168.10.15	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 01:04	192.168.10.15	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 01:09	192.168.10.15	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 01:53	192.168.10.15	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 01:00	192.168.10.5	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 02:02	192.168.10.8	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 01:31	192.168.10.9	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 01:41	192.168.10.5	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 02:13	192.168.10.8	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 02:15	192.168.10.5	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 02:15	192.168.10.14	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 02:16	192.168.10.9	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 02:17	192.168.10.8	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 02:19	192.168.10.14	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 02:21	192.168.10.14	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 02:23	192.168.10.15	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 02:23	192.168.10.14	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 02:25	192.168.10.14	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 02:27	192.168.10.14	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 02:28	192.168.10.8	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 03:17	192.168.10.8	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 02:30	192.168.10.5	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 02:30	192.168.10.14	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 02:31	192.168.10.9	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 02:32	192.168.10.8	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 03:16	192.168.10.9	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 03:15	192.168.10.14	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 03:15	192.168.10.5	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 02:38	192.168.10.15	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 02:45	192.168.10.5	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 02:45	192.168.10.14	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 02:46	192.168.10.9	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 02:47	192.168.10.8	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 03:11	192.168.10.5	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 03:11	192.168.10.15	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 03:09	192.168.10.5	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 03:09	192.168.10.15	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 03:07	192.168.10.5	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 03:06	192.168.10.15	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 03:05	192.168.10.5	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 03:04	192.168.10.15	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 03:03	192.168.10.5	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 03:02	192.168.10.8	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 03:02	192.168.10.15	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 03:01	192.168.10.9	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 03:00	192.168.10.14	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 03:00	192.168.10.5	192.168.10.3	BENIGN	5	4	5	0	32	High Priority - Containment / Escalation	0
+07/07/2017 01:00	192.168.10.19	192.168.10.3	BENIGN	4	4	5	0	30	High Priority - Containment / Escalation	0
+07/07/2017 01:00	192.168.10.19	192.168.10.3	BENIGN	4	4	5	0	30	High Priority - Containment / Escalation	0
+07/07/2017 01:00	192.168.10.19	192.168.10.3	BENIGN	4	4	5	0	30	High Priority - Containment / Escalation	0
+07/07/2017 01:00	192.168.10.19	192.168.10.3	BENIGN	4	4	5	0	30	High Priority - Containment / Escalation	0
+07/07/2017 02:52	192.168.10.14	104.97.74.19	BENIGN	4	4	5	0	30	High Priority - Containment / Escalation	0
+07/07/2017 02:52	192.168.10.8	199.80.55.247	BENIGN	4	4	5	0	30	High Priority - Containment / Escalation	0
+07/07/2017 02:52	192.168.10.14	212.77.100.82	BENIGN	4	4	5	0	30	High Priority - Containment / Escalation	0
+07/07/2017 02:52	192.168.10.3	192.168.10.1	BENIGN	4	4	5	0	30	High Priority - Containment / Escalation	0
+07/07/2017 02:52	192.168.10.3	192.168.10.1	BENIGN	4	4	5	0	30	High Priority - Containment / Escalation	0
+07/07/2017 02:52	192.168.10.8	192.168.10.3	BENIGN	4	4	5	0	30	High Priority - Containment / Escalation	0
+07/07/2017 02:52	192.168.10.14	192.168.10.3	BENIGN	4	4	5	0	30	High Priority - Containment / Escalation	0
+07/07/2017 02:52	192.168.10.14	192.168.10.3	BENIGN	4	4	5	0	30	High Priority - Containment / Escalation	0
+07/07/2017 02:52	172.16.0.1	192.168.10.50	PortScan	5	4	4	0	30	High Priority - Containment / Escalation	1
+07/07/2017 02:52	192.168.10.8	192.168.10.3	BENIGN	4	4	5	0	30	High Priority - Containment / Escalation	0
+07/07/2017 02:52	172.16.0.1	192.168.10.50	PortScan	5	4	4	0	30	High Priority - Containment / Escalation	1
+07/07/2017 02:52	172.16.0.1	192.168.10.50	PortScan	5	4	4	0	30	High Priority - Containment / Escalation	1
+07/07/2017 01:00	192.168.10.19	192.168.10.3	BENIGN	4	4	5	0	30	High Priority - Containment / Escalation	0
+07/07/2017 01:00	192.168.10.19	192.168.10.3	BENIGN	4	4	5	0	30	High Priority - Containment / Escalation	0
+07/07/2017 01:00	192.168.10.19	192.168.10.3	BENIGN	4	4	5	0	30	High Priority - Containment / Escalation	0
+07/07/2017 01:00	192.168.10.19	192.168.10.3	BENIGN	4	4	5	0	30	High Priority - Containment / Escalation	0
+07/07/2017 01:00	192.168.10.19	192.168.10.3	BENIGN	4	4	5	0	30	High Priority - Containment / Escalation	0
+
+
+
+
